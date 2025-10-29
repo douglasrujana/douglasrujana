@@ -83,10 +83,10 @@ const Portfolio = () => {
             </div>
           </div>
           <h1 className="text-6xl md:text-7xl font-light mb-6 tracking-tight">
-            Tu Nombre
+            Douglas Rujana
           </h1>
           <p className="text-xl md:text-2xl text-gray-500 font-light mb-12 leading-relaxed">
-            Desarrollador Full Stack
+            Desarrollador Full Stack+AI | QA | DevOps | Cloud-native
           </p>
           <p className="text-lg text-gray-600 font-light leading-relaxed max-w-2xl mx-auto">
             Creando experiencias digitales excepcionales mediante código limpio, 
