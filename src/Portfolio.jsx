@@ -63,7 +63,7 @@ const Portfolio = () => {
       id: 7,
       title: "Google Clone",
       description: "Clone del buscador google",
-      tags: ["HTML5", "CCS3", "JavaScript"],
+      tags: ["HTML5", "CSS3", "JavaScript"],
       image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&h=600&fit=crop",
       demo: "https://google-clone-psi-henna.vercel.app/",
       github: "https://github.com/douglasrujana/google-clone.git"
